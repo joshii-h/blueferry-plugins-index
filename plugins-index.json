@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "io.weirdware.blueferry.immich_photos",
+      "name": "Immich photos",
+      "description": "Recent photos and videos from your own Immich server in BlueFerry's Photos tab.",
+      "repo": "https://github.com/joshii-h/blueferry-plugin-immich",
+      "ref": "v0.2.0",
+      "capabilities": ["photos"],
+      "icon": "folder-pictures",
+      "emoji": "",
+      "screenshot": "",
+      "min_blueferry": "0.8",
+      "api_version": 1
+    },
+    {
+      "id": "io.weirdware.blueferry.shortcuts",
+      "name": "iOS Shortcuts bridge",
+      "description": "Clipboard, links and battery from your iPhone through iOS Shortcuts.",
+      "repo": "https://github.com/joshii-h/blueferry-plugin-shortcuts",
+      "ref": null,
+      "capabilities": ["shortcuts"],
+      "icon": "system-run",
+      "emoji": "",
+      "screenshot": "",
+      "min_blueferry": "0.8",
+      "api_version": 1
+    },
+    {
+      "id": "io.weirdware.blueferry.calendar",
+      "name": "Calendar",
+      "description": "Your CalDAV agenda on BlueFerry's phone card.",
+      "repo": "https://github.com/joshii-h/blueferry-plugin-calendar",
+      "ref": null,
+      "capabilities": ["calendar"],
+      "icon": "view-calendar",
+      "emoji": "",
+      "screenshot": "",
+      "min_blueferry": "0.8",
+      "api_version": 1
+    },
+    {
+      "id": "io.weirdware.blueferry.webdav",
+      "name": "WebDAV files",
+      "description": "Send files to and list uploads on WebDAV or Nextcloud.",
+      "repo": "https://github.com/joshii-h/blueferry-plugin-webdav",
+      "ref": null,
+      "capabilities": ["files"],
+      "icon": "folder-cloud",
+      "emoji": "",
+      "screenshot": "",
+      "min_blueferry": "0.8",
+      "api_version": 1
+    },
+    {
+      "id": "io.weirdware.blueferry.localsend",
+      "name": "LocalSend",
+      "description": "Send and receive files with the LocalSend protocol, without the LocalSend app.",
+      "repo": "https://github.com/joshii-h/blueferry-plugin-localsend",
+      "ref": null,
+      "capabilities": ["share"],
+      "icon": "document-send",
+      "emoji": "",
+      "screenshot": "",
+      "min_blueferry": "0.8",
+      "api_version": 1
+    }
+  ]
+}
