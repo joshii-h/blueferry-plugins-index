@@ -7,7 +7,9 @@
       "description": "Recent photos and videos from your own Immich server in BlueFerry's Photos tab.",
       "repo": "https://github.com/joshii-h/blueferry-plugin-immich",
       "ref": "v0.2.0",
-      "capabilities": ["photos"],
+      "capabilities": [
+        "photos"
+      ],
       "icon": "folder-pictures",
       "emoji": "",
       "screenshot": "",
@@ -19,8 +21,11 @@
       "name": "iOS Shortcuts bridge",
       "description": "Clipboard, links and battery from your iPhone through iOS Shortcuts.",
       "repo": "https://github.com/joshii-h/blueferry-plugin-shortcuts",
-      "ref": null,
-      "capabilities": ["shortcuts"],
+      "ref": "v0.1.1",
+      "capabilities": [
+        "card",
+        "notify"
+      ],
       "icon": "system-run",
       "emoji": "",
       "screenshot": "",
@@ -32,8 +37,11 @@
       "name": "Calendar",
       "description": "Your CalDAV agenda on BlueFerry's phone card.",
       "repo": "https://github.com/joshii-h/blueferry-plugin-calendar",
-      "ref": null,
-      "capabilities": ["calendar"],
+      "ref": "v0.1.0",
+      "capabilities": [
+        "card",
+        "notify"
+      ],
       "icon": "view-calendar",
       "emoji": "",
       "screenshot": "",
@@ -45,8 +53,12 @@
       "name": "WebDAV files",
       "description": "Send files to and list uploads on WebDAV or Nextcloud.",
       "repo": "https://github.com/joshii-h/blueferry-plugin-webdav",
-      "ref": null,
-      "capabilities": ["files"],
+      "ref": "v0.1.0",
+      "capabilities": [
+        "card",
+        "share",
+        "notify"
+      ],
       "icon": "folder-cloud",
       "emoji": "",
       "screenshot": "",
@@ -58,8 +70,12 @@
       "name": "LocalSend",
       "description": "Send and receive files with the LocalSend protocol, without the LocalSend app.",
       "repo": "https://github.com/joshii-h/blueferry-plugin-localsend",
-      "ref": null,
-      "capabilities": ["share"],
+      "ref": "v0.1.1",
+      "capabilities": [
+        "card",
+        "share",
+        "notify"
+      ],
       "icon": "document-send",
       "emoji": "",
       "screenshot": "",
