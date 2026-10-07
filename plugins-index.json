@@ -53,7 +53,7 @@
       "name": "WebDAV files",
       "description": "Send files to and list uploads on WebDAV or Nextcloud.",
       "repo": "https://github.com/joshii-h/blueferry-plugin-webdav",
-      "ref": "v0.2.0",
+      "ref": "v0.2.1",
       "capabilities": [
         "card",
         "share",
