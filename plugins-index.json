@@ -6,7 +6,7 @@
       "name": "Immich photos",
       "description": "Recent photos and videos from your own Immich server in BlueFerry's Photos tab.",
       "repo": "https://github.com/joshii-h/blueferry-plugin-immich",
-      "ref": "v0.2.0",
+      "ref": "v0.2.1",
       "capabilities": [
         "photos"
       ],
@@ -21,7 +21,7 @@
       "name": "iOS Shortcuts bridge",
       "description": "Clipboard, links and battery from your iPhone through iOS Shortcuts.",
       "repo": "https://github.com/joshii-h/blueferry-plugin-shortcuts",
-      "ref": "v0.1.1",
+      "ref": "v0.1.2",
       "capabilities": [
         "card",
         "notify"
@@ -37,7 +37,7 @@
       "name": "Calendar",
       "description": "Your CalDAV agenda on BlueFerry's phone card.",
       "repo": "https://github.com/joshii-h/blueferry-plugin-calendar",
-      "ref": "v0.1.0",
+      "ref": "v0.1.1",
       "capabilities": [
         "card",
         "notify"
@@ -53,7 +53,7 @@
       "name": "WebDAV files",
       "description": "Send files to and list uploads on WebDAV or Nextcloud.",
       "repo": "https://github.com/joshii-h/blueferry-plugin-webdav",
-      "ref": "v0.1.0",
+      "ref": "v0.1.1",
       "capabilities": [
         "card",
         "share",
@@ -70,7 +70,7 @@
       "name": "LocalSend",
       "description": "Send and receive files with the LocalSend protocol, without the LocalSend app.",
       "repo": "https://github.com/joshii-h/blueferry-plugin-localsend",
-      "ref": "v0.1.1",
+      "ref": "v0.1.2",
       "capabilities": [
         "card",
         "share",
