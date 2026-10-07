@@ -35,9 +35,9 @@
     {
       "id": "io.weirdware.blueferry.calendar",
       "name": "Calendar",
-      "description": "Your CalDAV agenda on BlueFerry's phone card.",
+      "description": "Your CalDAV agenda or iCal links (Google Calendar without sign-in) on BlueFerry's phone card.",
       "repo": "https://github.com/joshii-h/blueferry-plugin-calendar",
-      "ref": "v0.2.1",
+      "ref": "v0.3.0",
       "capabilities": [
         "card",
         "notify"
